@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{21C02D30-C2FB-4F75-826F-85F34D0F5E29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FibonacciNumberGenerator/FibonacciNumberGeneratorClass.cs">
+    <Files>
+      <File FileName="FibonacciNumberGenerator/UnitTest1.cs" Line="30" Column="69" />
+      <File FileName="FibonacciNumberGenerator/FibonacciNumberGeneratorClass.cs" Line="24" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FibonacciNumberGenerator" expanded="True" selected="True">
+            <Node name="FibonacciNumberGenerator" expanded="True">
+              <Node name="FibonacciNumberGenerator" expanded="True">
+                <Node name="FibonacciTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FibonacciNumberGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
